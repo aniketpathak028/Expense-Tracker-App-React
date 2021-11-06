@@ -20,7 +20,19 @@ const INITIAL_EXPENSES = [
     id: "e4",
     title: "New Desk (Wooden)",
     amount: 450,
-    date: new Date(2021, 5, 12),
+    date: new Date(2020, 5, 7),
+  },
+  {
+    id: "e5",
+    title: "Macbook Pro",
+    amount: 1199.67,
+    date: new Date(2019, 5, 10),
+  },
+  {
+    id: "e6",
+    title: "IPhone 13",
+    amount: 1213.45,
+    date: new Date(2021, 7, 12),
   },
 ];
 
